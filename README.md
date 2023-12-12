@@ -39,6 +39,10 @@ This project was about the small gadget device that can use your fate for your d
 - add animation
 - Design circuits and create own PCB
 
+### Addition Features
+- Digital Clock
+- Metronome
+
 ---
 
 ### Luck Engine Prototype
